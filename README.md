@@ -2,12 +2,10 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Availly: A group scheduling app</b>
-  - [Project Description](https://github.com/Sethkd12/Availly)
-- <b>Project Name</b>
-  - [Project Description](github-link)
-- <b>Project Name</b>
-  - [Project Description](github-link)
+- <b>Availly</b>
+  - [A group scheduling website](https://github.com/Sethkd12/Availly)
+- <b>How Streaming Affected The Music Industry</b>
+  - [Python notebook research paper]()
 
 <h2>🤳 Connect with me:</h2>
 
