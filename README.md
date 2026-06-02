@@ -5,7 +5,7 @@
 - <b>Availly</b>
   - [A group scheduling website](https://github.com/Sethkd12/Availly)
 - <b>How Streaming Affected The Music Industry</b>
-  - [Python notebook research paper]()
+  - [Python notebook research paper](https://github.com/Sethkd12/Music-Streaming-Research-Paper/tree/main)
 
 <h2>🤳 Connect with me:</h2>
 
