@@ -7,7 +7,7 @@
 - <b>How Streaming Affected The Music Industry</b>
   - [Python notebook research paper](https://github.com/Sethkd12/Music-Streaming-Research-Paper/tree/main)
 - <b>Cornhole ELO Website</b>
-  - [Cornhole ELO ranking social media platform]([https://github.com/Sethkd12/Music-Streaming-Research-Paper/tree/main](https://github.com/Sethkd12/cornhole-project)
+  - [Cornhole ELO ranking social media platform](https://github.com/Sethkd12/Music-Streaming-Research-Paper/tree/main](https://github.com/Sethkd12/cornhole-project)
 
 <h2>🤳 Connect with me:</h2>
 
